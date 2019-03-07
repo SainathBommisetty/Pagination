@@ -6,17 +6,7 @@ It works independent with out any dependencies
 ### How to use
 
 PaginationComponent will render different types of paginations, below props
-are exposed to that you can customize as per your requirement
-
-{number} numberOfPages: total number of pages,
-{function} getCurrentPage: will return the current page index,
-{number} currentPage: default page to be selected on onLoad,
-{bool} showFirstLast: if true will show first and last option else no,
-{number} showPages: how many pages to be rendered in UI,
-{array} showText: ["First", "Back", "Next", "Last"] can pass any text for
-first,last,back and next.
-{string} className: can pass any string to write our own CSS,
-
+are exposed to that you can customize as per your requirement.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
